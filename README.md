@@ -6,3 +6,8 @@
 
 ### npm install
 
+### node index.js
+
+### para realizar o teste recomendado o POSTMAN
+
+- Metodo POST http://localhost:3000
