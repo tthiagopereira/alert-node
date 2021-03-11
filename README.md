@@ -2,5 +2,7 @@
 
 ### git clone https://github.com/tthiagopereira/alert-node.git
 
-### node install
+### cd alert-node/
+
+### npm install
 
